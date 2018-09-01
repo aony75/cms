@@ -1,0 +1,5 @@
+$(function(){
+    
+    validate_schedule();
+
+}());
